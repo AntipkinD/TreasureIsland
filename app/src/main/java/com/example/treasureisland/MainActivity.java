@@ -42,13 +42,13 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
 
                 if(i==0) {
-                    startActivity(new Intent(MainActivity.this,BilliActivity.class));
+                    startActivity(new Intent(MainActivity.this, BillyActivity.class));
                 }else if (i==1){
                     startActivity(new Intent(MainActivity.this,PesActivity.class));
                 }else if(i==2){
                     startActivity(new Intent(MainActivity.this,PyuActivity.class));
                 }else if(i==3){
-                startActivity(new Intent(MainActivity.this,dgimmActivity.class));
+                startActivity(new Intent(MainActivity.this, JimActivity.class));
                 }else if(i==4){
                 startActivity(new Intent(MainActivity.this,TreloniActivity.class));
                 }else if(i==5){
@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
                 }else if(i==6){
                 startActivity(new Intent(MainActivity.this,SmolettActivity.class));
                 }else if(i==7){
-                 startActivity(new Intent(MainActivity.this,BenGanActivity.class));
+                 startActivity(new Intent(MainActivity.this, BenGannActivity.class));
 
                 }
             }

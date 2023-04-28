@@ -12,7 +12,7 @@
         android:theme="@style/Theme.TreasureIsland"
         tools:targetApi="31">
         <activity
-            android:name=".BenGanActivity"
+            android:name=".BenGannActivity"
             android:exported="false" />
         <activity
             android:name=".SmolettActivity"
@@ -24,7 +24,7 @@
             android:name=".TreloniActivity"
             android:exported="false" />
         <activity
-            android:name=".dgimmActivity"
+            android:name=".JimActivity"
             android:exported="false" />
         <activity
             android:name=".PyuActivity"
@@ -33,7 +33,7 @@
             android:name=".PesActivity"
             android:exported="false" />
         <activity
-            android:name=".BilliActivity"
+            android:name=".BillyActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
