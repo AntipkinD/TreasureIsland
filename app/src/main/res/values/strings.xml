@@ -6,4 +6,16 @@
     <string name="pesopis">ДРУГ ФЛИНТА. ОХОТИТСЯ ЗА\nКАРТОЙ ОСТРОВА СОКРОВИЩ.\nХАРАКТЕР СКРЫТНЫЙ. \nНЕ ЖЕНАТ.</string>
     <string name="livse">ДОКТОР\n\s\s ЛИВСИ</string>
     <string name="livseopis">ОЧЕНЬ ХОРОШИЙ И ВЕСЕЛЫЙ ЧЕЛОВЕК.\nХАРАКТЕР ОБЩИТЕЛЬНЫЙ. НЕ ЖЕНАТ.</string>
+    <string name="pyu">СЛЕПОЙ\n\s\s\sПЬЮ</string>
+    <string name="pyuopis">СТАРЫЙ ПИРАТ, ДРУГ ФЛИНТА. ЖАДЕН, РАДИ ДЕНЕГ ПОЙДЕТ НА ВСЕ. ХАРАКТЕР МЕРЗКИЙ.\nНЕ ЖЕНАТ.</string>
+    <string name="jimg">ДЖИММИ ГОКИНС</string>
+    <string name="jimgopis">ОЧЕНЬ, ОЧЕНЬ ХОРОШИЙ МАЛЬЧИК. ВЕЖЛИВ, ПРАВДИВ, СКРОМЕН, ДОБР. СЛУШАЕТ МАМУ, КАЖДОЕ УТРО ДЕЛАЕТ ЗАРЯДКУ. ХАРАКТЕР ОЧЕНЬ МЯГКИЙ.</string>
+    <string name="treloni"></string>
+    <string name="treloniopis"></string>
+    <string name="smolett"></string>
+    <string name="smolettopis"></string>
+    <string name="silver"></string>
+    <string name="silveropis"></string>
+    <string name="bengan"></string>
+    <string name="benganopis"></string>
 </resources>
