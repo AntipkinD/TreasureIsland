@@ -10,8 +10,8 @@
     <string name="pyuopis">СТАРЫЙ ПИРАТ, ДРУГ ФЛИНТА. ЖАДЕН, РАДИ ДЕНЕГ ПОЙДЕТ НА ВСЕ. ХАРАКТЕР МЕРЗКИЙ.\nНЕ ЖЕНАТ.</string>
     <string name="jimg">ДЖИММИ\n\sГОКИНС</string>
     <string name="jimgopis">ОЧЕНЬ, ОЧЕНЬ ХОРОШИЙ МАЛЬЧИК. ВЕЖЛИВ, ПРАВДИВ, СКРОМЕН, ДОБР. СЛУШАЕТ МАМУ, КАЖДОЕ УТРО ДЕЛАЕТ ЗАРЯДКУ.\nХАРАКТЕР ОЧЕНЬ МЯГКИЙ.</string>
-    <string name="treloni"></string>
-    <string name="treloniopis"></string>
+    <string name="treloni">\s\sСКВАЙР ТРЕЛОНИ</string>
+    <string name="treloniopis">ТУП, ЖАДЕН, ПРОЖОРЛИВ, ЛЕНИВ, ТРУСЛИВ, НАДМЕНЕН.\nХАРАКТЕР ОТСУТСТВУЕТ.\nНЕ ЖЕНАТ.</string>
     <string name="smolett"></string>
     <string name="smolettopis"></string>
     <string name="silver"></string>
