@@ -10,22 +10,23 @@
         android:id="@+id/imageView"
         android:layout_width="233dp"
         android:layout_height="154dp"
+        android:layout_marginStart="-3dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.296"
-        app:srcCompat="@drawable/billybones" />
+        app:srcCompat="@drawable/drlivse" />
 
     <TextView
         android:id="@+id/txt"
-        android:layout_width="315dp"
-        android:layout_height="171dp"
+        android:layout_width="275dp"
+        android:layout_height="132dp"
         android:layout_marginStart="50dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="25dp"
         android:fontFamily="@font/treasureislandregular"
-        android:text="@string/bonesopis"
+        android:text="@string/livseopis"
         android:textColor="@color/black"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -37,10 +38,10 @@
 
     <TextView
         android:id="@+id/txt1"
-        android:layout_width="88dp"
-        android:layout_height="88dp"
+        android:layout_width="122dp"
+        android:layout_height="85dp"
         android:fontFamily="@font/treasureislandregular"
-        android:text="@string/bones"
+        android:text="@string/livse"
         android:textAlignment="textStart"
         android:textColor="@color/black"
         android:textSize="38sp"
@@ -50,5 +51,5 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.367" />
+        app:layout_constraintVertical_bias="0.362" />
 </androidx.constraintlayout.widget.ConstraintLayout>

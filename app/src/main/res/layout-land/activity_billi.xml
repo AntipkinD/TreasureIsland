@@ -6,47 +6,48 @@
     android:layout_height="match_parent"
     tools:context=".BillyActivity">
 
-    <TextView
-        android:id="@+id/txt1"
-        android:layout_width="124dp"
-        android:layout_height="92dp"
-        android:fontFamily="@font/treasureislandregular"
-        android:text="БИЛЛИ \n\ БОНС"
-        android:textAlignment="viewStart"
-        android:textColor="@color/black"
-        android:textSize="38sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.407"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.205" />
-
-    <TextView
-        android:id="@+id/txt"
-        android:layout_width="386dp"
-        android:layout_height="170dp"
-        android:fontFamily="@font/treasureislandregular"
-        android:text="ОН ЖЕ ''КАПИТАН''.\n\ОБЛАДАТЕЛЬ КАРТЫ ОСТРОВА СОКРОВИЩ. МНОГО ПЬЕТ И \n\ВСЕГДА ПРОСТУЖЕН.\n\ХАРАКТЕР СКРВЕНЫЙ. \n\НЕ ЖЕНАТ."
-        android:textColor="@color/black"
-        android:textSize="24dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.073"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.928" />
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="233dp"
         android:layout_height="154dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.334"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/img_20230426_203813" />
+        app:srcCompat="@drawable/billybones" />
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="102dp"
+        android:layout_height="92dp"
+        android:fontFamily="@font/treasureislandregular"
+        android:text="@string/bones"
+        android:textAlignment="viewStart"
+        android:textColor="@color/black"
+        android:textSize="38sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.727"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.275" />
+
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="386dp"
+        android:layout_height="170dp"
+        android:layout_marginStart="215dp"
+        android:fontFamily="@font/treasureislandregular"
+        android:text="@string/bonesopis"
+        android:textColor="@color/black"
+        android:textSize="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:layout_constraintVertical_bias="0.0" />
 </androidx.constraintlayout.widget.ConstraintLayout>

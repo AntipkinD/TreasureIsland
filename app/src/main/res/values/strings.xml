@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Treasure Island</string>
+    <string name="bones">БИЛЛИ\n БОНС</string>
+    <string name="bonesopis">ОН ЖЕ \'\'КАПИТАН\'\'.\nОБЛАДАТЕЛЬ КАРТЫ ОСТРОВА СОКРОВИЩ. МНОГО ПЬЕТ И \nВСЕГДА ПРОСТУЖЕН.\nХАРАКТЕР СКВЕРНЫЙ. \nНЕ ЖЕНАТ.</string>
+    <string name="pes">ЧЕРНЫЙ\n\s\s\s\s ПЕС</string>
+    <string name="pesopis">ДРУГ ФЛИНТА. ОХОТИТСЯ ЗА\nКАРТОЙ ОСТРОВА СОКРОВИЩ.\nХАРАКТЕР СКРЫТНЫЙ. \nНЕ ЖЕНАТ.</string>
+    <string name="livse">ДОКТОР\n\s\s ЛИВСИ</string>
+    <string name="livseopis">ОЧЕНЬ ХОРОШИЙ И ВЕСЕЛЫЙ ЧЕЛОВЕК.\nХАРАКТЕР ОБЩИТЕЛЬНЫЙ. НЕ ЖЕНАТ.</string>
 </resources>
