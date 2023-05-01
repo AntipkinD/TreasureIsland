@@ -61,10 +61,7 @@ public class MainActivity extends AppCompatActivity {
                 }else if(i==8){
                     startActivity(new Intent(MainActivity.this, BenGannActivity.class));
                 }
-
             }
         });
-
-
     }
 }
