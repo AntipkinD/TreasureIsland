@@ -12,10 +12,12 @@
     <string name="jimgopis">ОЧЕНЬ, ОЧЕНЬ ХОРОШИЙ МАЛЬЧИК. ВЕЖЛИВ, ПРАВДИВ, СКРОМЕН, ДОБР. СЛУШАЕТ МАМУ, КАЖДОЕ УТРО ДЕЛАЕТ ЗАРЯДКУ.\nХАРАКТЕР ОЧЕНЬ МЯГКИЙ.</string>
     <string name="treloni">\s\sСКВАЙР ТРЕЛОНИ</string>
     <string name="treloniopis">ТУП, ЖАДЕН, ПРОЖОРЛИВ, ЛЕНИВ, ТРУСЛИВ, НАДМЕНЕН.\nХАРАКТЕР ОТСУТСТВУЕТ.\nНЕ ЖЕНАТ.</string>
-    <string name="smolett"></string>
-    <string name="smolettopis"></string>
-    <string name="silver"></string>
-    <string name="silveropis"></string>
-    <string name="bengan"></string>
-    <string name="benganopis"></string>
+    <string name="smolett">КАПИТАН СМОЛЛЕТТ</string>
+    <string name="smolettopis">СТАРЫЙ МОРЯК И СОЛДАТ. ГОВОРИТ ПРАВДУ В ГЛАЗА, ОТЧЕГО И СТРАДАЕТ. ХАРАКТЕР ПРЕСКВЕРНЫЙ. НЕ ЖЕНАТ.</string>
+    <string name="silver">\s\s ДЖОН СИЛЬВЕР</string>
+    <string name="silveropis">ОН ЖЕ \'\'ОКОРОК\'\', ОН ЖЕ \'\'ОДНОНОГИЙ\'\'. САМЫЙ СТРАШНЫЙ ПИРАТ, НО\nУДАЧНО ПРИТВОРЯЕТСЯ ДОБРЫМ. ХАРАКТЕР СКРЫТНЫЙ. \nНЕ ЖЕНАТ.</string>
+    <string name="bengan">БЕН ГАНН</string>
+    <string name="benganopis">В ДЕТСТВЕ БЫЛ БЛАГОВОСПИТАННЫМ МАЛЬЧИКОМ, НО НАЧАЛ ИГРАТЬ В ОРЛЯНКУ, СВЯЗАЛСЯ С ПИРАТАМИ И ПОКАТИЛСЯ…ХАРАКТЕР МЯГКИЙ. НЕ ЖЕНАТ.</string>
+    <string name="group">МУЗЫКАЛЬНАЯ ПАУЗА</string>
+    <string name="groupopis">ПОКА ПИРАТЫ ПЕРЕВЯЗЫВАЮТ СВОИ РАНЫ, А ТРЕЛОНИ, ЛИВСИ И СМОЛЕТТ ОТДЫХАЮТ ПОСЛЕСЛАВНОЙ ПОБЕДЫ, ГРУППА\'\'ГРОТЕСК\'\' ИСПОЛНИТ ПЕСНЮ \'\'МЫ ВСЕ - УЧАСТНИКИ РЕГАТЫ\'\'.</string>
 </resources>
