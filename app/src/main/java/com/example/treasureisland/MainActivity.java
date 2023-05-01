@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         list.add("Джимми Гокинс");
         list.add("Сквайр Трелони");
         list.add("Джон Сильвер");
-        list.add("Капитан Смолетт");
+        list.add("Капитан Смоллетт");
         list.add("Бен Ганн");
 
 
