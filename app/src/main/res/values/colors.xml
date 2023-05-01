@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="backgroundc">#f0e5dd</color>
+    <color name="actionbarc">#592321</color>
 </resources>
