@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         list.add("Джон Сильвер");
         list.add("Капитан Смоллетт");
         list.add("Бен Ганн");
+        list.add("Музыкальная пауза");
 
 
         ArrayAdapter arrayAdapter = new ArrayAdapter(getApplicationContext(), android.R.layout.simple_list_item_1,list);
@@ -60,6 +61,8 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(new Intent(MainActivity.this,SmolettActivity.class));
                 }else if(i==8){
                     startActivity(new Intent(MainActivity.this, BenGannActivity.class));
+                }else if(i==9){
+                    startActivity(new Intent(MainActivity.this, Group.class));
                 }
             }
         });

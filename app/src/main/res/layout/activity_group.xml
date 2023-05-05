@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/backgroundc"
-    tools:context=".JimActivity">
+    tools:context=".BillyActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -17,16 +17,16 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.296"
-        app:srcCompat="@drawable/jim" />
+        app:srcCompat="@drawable/grips" />
 
     <TextView
         android:id="@+id/txt"
-        android:layout_width="351dp"
-        android:layout_height="150dp"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="20dp"
+        android:layout_width="360dp"
+        android:layout_height="175dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="10dp"
         android:fontFamily="@font/treasureislandregular"
-        android:text="@string/jimgopis"
+        android:text="@string/groupopis"
         android:textColor="@color/black"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -37,20 +37,36 @@
         app:layout_constraintVertical_bias="0.0" />
 
     <TextView
-        android:id="@+id/txt1"
-        android:layout_width="128dp"
-        android:layout_height="79dp"
-        android:layout_marginEnd="-2dp"
+        android:id="@+id/txt2"
+        android:layout_width="78dp"
+        android:layout_height="32dp"
         android:fontFamily="@font/treasureislandregular"
-        android:text="@string/jimg"
+        android:text="@string/group2"
         android:textAlignment="textStart"
         android:textColor="@color/black"
-        android:textSize="37sp"
+        android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.367" />
+        app:layout_constraintVertical_bias="0.407" />
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="127dp"
+        android:layout_height="27dp"
+        android:layout_marginEnd="-1dp"
+        android:fontFamily="@font/treasureislandregular"
+        android:text="@string/group"
+        android:textAlignment="textStart"
+        android:textColor="@color/black"
+        android:textSize="23sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.363" />
 </androidx.constraintlayout.widget.ConstraintLayout>

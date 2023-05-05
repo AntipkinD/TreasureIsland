@@ -12,6 +12,9 @@
         android:theme="@style/Theme.TreasureIsland"
         tools:targetApi="31">
         <activity
+            android:name=".Group"
+            android:exported="false" />
+        <activity
             android:name=".ItActivity"
             android:exported="false" />
         <activity
