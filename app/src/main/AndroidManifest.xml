@@ -15,9 +15,6 @@
             android:name=".Group"
             android:exported="false" />
         <activity
-            android:name=".ItActivity"
-            android:exported="false" />
-        <activity
             android:name=".DrLivseyActivity"
             android:exported="false" />
         <activity
